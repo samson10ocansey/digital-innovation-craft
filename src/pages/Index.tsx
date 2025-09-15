@@ -24,13 +24,13 @@ const Index = () => {
         <div className="container-max px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="text-2xl font-bold mb-4">
-              <span className="text-gradient-primary">Portfolio</span>
+              <span className="text-gradient-primary">Vibe Designs</span>
             </div>
             <p className="text-muted-foreground mb-6">
               Building the future with AI-powered solutions and innovative web technologies.
             </p>
             <div className="text-sm text-muted-foreground">
-              © 2024 Your Portfolio. All rights reserved.
+              © 2024 Vibe Designs. All rights reserved.
             </div>
           </div>
         </div>
